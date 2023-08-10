@@ -1,4 +1,4 @@
-# game_of_life
+# Game of Life
 
 - Created with js and p5
 - To use you need to launch http server `python3 -m http.server` from repo
